@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: #121216;
+}
+
+.links a, .card, .title, .course-content a{
+    color: #ffff;
+}
+
+.links a, .course-content a {
+    text-decoration: none;
+}
+
+.links a{
+    margin: 5px;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+.title {
+    text-align: center;
+}
+
+.title h1 {
+    margin: 1em 0 0.5em 0;
+}
+
+.title span {
+    color: #00ffff;
+}
+
+.card {
+    background-color: transparent;
+    margin: 1em;
+    border-radius: 5px;
+    box-shadow: 3px 5px 7px #1f1e1e;
+}
+
+.navbar a, .navbar a:visited {
+    color: #c6bebe;
+}
+
+.navbar a:hover {
+    color: #fff;
+}
+
+.card-group  {
+    margin-bottom: 1em;
+}
+
+.card-group  {
+    margin-bottom: 1em;
+}
+
+.course-content {
+    text-align: center;
+}
+
+.course-content a:hover {
+    text-decoration: underline;
+}
+
